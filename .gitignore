@@ -2,3 +2,7 @@
 /replay.log
 target/
 .idea
+.substreams.env
+!solana-transfers-v1.0.0.spkg
+transfers-output.jsonl
+transfers-clean.jsonl
