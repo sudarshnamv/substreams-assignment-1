@@ -26,3 +26,5 @@ substreams build
 
 . ./.substreams.env
 substreams run -e mainnet.sol.streamingfast.io:443 -s 385870151 -t 385870157 ./substreams.yaml map_transfers -o jsonl
+
+```
